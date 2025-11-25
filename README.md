@@ -7,3 +7,33 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?500628F6E93942BBA150C3651
 mathias.m2502@gmail.com
 mankaiadam145@gmail.com
 bouyaninho@gmai.com
+
+sudo apt-get update && sudo apt-get install build-essential
+
+g++ programme.cpp -o programme
+
+./programme
+
+./programme < vote.txt > sortie.txt
+
+
+vector<int> lireQueLesVotes() {
+    vector<int> lesVotes;
+
+    while (true) {
+        // 1. On lit le NOM pour le "consommer" (on l'ignore)
+        string poubelle = litUneString();
+
+        // Si le fichier est fini ou qu'il n'y a plus de nom, on arrête
+        if (!cin || poubelle.empty()) break;
+
+        // 2. On lit le PRENOM pour le "consommer" (on l'ignore)
+        litUneString();
+
+        // 3. On lit le VOTE (C'est la seule chose qu'on garde)
+        int leVote = litUnEntier();
+        lesVotes.push_back(leVote);
+    }
+
+    return lesVotes;
+}
