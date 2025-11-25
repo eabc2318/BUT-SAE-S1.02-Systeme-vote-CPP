@@ -37,3 +37,25 @@ vector<int> lireQueLesVotes() {
 
     return lesVotes;
 }
+
+
+
+#include <iostream>
+#include <vector>
+
+void saucisse() {
+    std::vector<std::vector<int>> m = {{1, 2, 3, 4}, {4, 3, 2, 1}};
+    vector<string> cars = {0, 0, 0, 0,};
+    for (int i = 0; i <2; i++) {
+        for (int j = 0; j <5; j++) {
+            std::cout << m[i][j];
+        }
+    }
+}
+
+int main() {
+    std::cout << "Try programiz.pro\n";
+    saucisse();
+    return 0;
+}
+
