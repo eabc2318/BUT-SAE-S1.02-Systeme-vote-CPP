@@ -1,0 +1,5 @@
+~ Liste des candidats et leurs nombre de sièges ~
+Choco : 3
+Banane : 3
+Mangue : 2
+Fraises : 2

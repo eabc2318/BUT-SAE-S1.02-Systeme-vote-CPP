@@ -1,0 +1,8 @@
+Candidat 1 a : 39 voix.
+Candidat 2 a : 20 voix.
+Candidat 3 a : 20 voix.
+Candidat 4 a : 37 voix.
+Resultat : pas de majorité, deuxième tour
+gagnant du premier tour : 1
+gagnant du premier tour : 4
+gagnant du vote :  4

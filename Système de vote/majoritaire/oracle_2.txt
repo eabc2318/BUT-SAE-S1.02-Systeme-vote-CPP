@@ -1,0 +1,6 @@
+Candidat 1 a : 0 voix.
+Candidat 2 a : 0 voix.
+Candidat 3 a : 116 voix.
+Candidat 4 a : 0 voix.
+Resultat : majorité au premier tour
+gagnant du vote par majorité :  2
