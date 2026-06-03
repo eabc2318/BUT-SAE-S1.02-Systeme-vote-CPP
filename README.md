@@ -3,6 +3,6 @@
 # mathias.m2502@gmail.com
 # mankaiadam145@gmail.com
 # bouyaninho@gmail.com
-# aurelejambert prime
+# aurele.jambert0@gmail.com
 
 Projet pédagogique de système de vote en C++
